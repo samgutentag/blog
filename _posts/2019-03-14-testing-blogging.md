@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Introductory Test Post"
-date:   2019-03-14 23:24:17 -0700
+date:   2019-03-14 08:00:00 -0700
 categories: jekyll update blogging
 ---
 Consider this my initial commit to actually for real trying to blog my wreckless stumblings through the internet and other things.
