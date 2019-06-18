@@ -18,7 +18,7 @@ The project is hosted on github here [Safeway Clipper](https://www.github.com/sa
 
 The key part of this project was to be a set and forget task that runs on a normal interval so that anytime I show up at Safeway, I am likely to have as many coupons clipped as is actually possible.
 
-To accomplish this, the main script is wrapped into a cron job.  This allows the old [2010 Macbook Pro](https://support.apple.com/kb/sp582?locale=en_US) still chugging along in my back closet to run this script every night around 3am and every afternoon around 3pm.
+To accomplish this, the main script is wrapped into a cron job.  This allows the old [2010 Macbook Pro](https://support.apple.com/kb/sp582?locale=en_US) still chugging along in my back closet to run this script every night.
 
 ## Approach
 
