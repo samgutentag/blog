@@ -52,4 +52,4 @@ You are done! Use the included USB 3.0 cable to connect your drive to your compu
 
 - The drive may need to be initialized before it will be recognized by your system, there will be another guide detailing how to initialize a drive on macOS.
 
-- [shortlink]({{ page.bitly }})
+- [Link to this page]({{ page.bitly }})
