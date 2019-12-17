@@ -4,8 +4,6 @@ title:  "Installing a Drive into a Tool Free Case"
 date:   2019-12-16 08:00:00 -0800
 categories: hardware howto installguide
 ---
-# Installing a Drive into a Tool Free Case
-
 ## Step 1
 Purchase Hard Drive and Enclosure.  This example uses a 2.5" Drive and USB 3.0 Case.
 
