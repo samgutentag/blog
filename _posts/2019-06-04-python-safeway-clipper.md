@@ -3,6 +3,7 @@ layout: post
 title:  "Clipping Safeway Coupons with Python"
 date:   2019-06-04 08:00:00 -0700
 categories: python selenium automation
+bitly: https://gutentag.co/clippingcoupons
 ---
 I grocery shop on a weekly basis, mostly because I live in a small San Francisco apartment with a refrigerator from the early 1200's, but also because I am learning to enjoy cooking and fresh ingredients are _actually_ starting to taste better to me.
 
@@ -68,3 +69,5 @@ The obvious next feature I need to add is some kind of user notify system for wh
   2. Logging
   3. Cross Reference with Grocery List?
   4. Move to a Raspberry Pi?
+
+- [Link to this page]({{ page.bitly }})
