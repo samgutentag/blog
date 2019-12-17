@@ -14,7 +14,7 @@ Place for case face down with the USB port facing away from you. Place the Hard 
 Open the case by sliding the backplate completely off, do not lift up until the backplate has slide completely off the guide rails.
 
 ## Step 4
-Place the Hard Drive flat onto the case, lining up the metal pins with the plug inside. 
+Place the Hard Drive flat onto the case, lining up the metal pins with the plug inside.
 
 ## Step 5
 Push the Hard Drive away from you and gently  into the plug. The Hard Drive should feel attached to the case and relatively secure in its connection.
@@ -29,3 +29,18 @@ You are done! Use the included USB 3.0 cable to connect your drive to your compu
 - Give the Case with the installer Hard Drive a gentle shake, you should not hear any rattling around.  If you do, these cases often include a small piece of rectangular foam with a sticky side, remove the case (Step 3) and stick the foam to the inside of the lid of the case and slide it back on (Step 6). *Do not attach foam to the Hard Drive directly*
 
 - The drive may need to be initialized before it will be recognized by your system, there will be another guide detailing how to initialize a drive on macOS.
+
+
+![image_01](https://i.imgur.com/cTq4kHD.jpg)
+![image_02](https://i.imgur.com/JRQaz5w.jpg)
+![image_03](https://i.imgur.com/qkFkvBN.jpg)
+![image_04](https://i.imgur.com/1diXH3k.jpg)
+![image_04a](https://i.imgur.com/JkXMx0X.jpg)
+![image_04b](https://i.imgur.com/B7PM6T5.jpg)
+![image_05](https://i.imgur.com/kWfrr0M.jpg)
+![image_06](https://i.imgur.com/rMQYhGh.jpg)
+![image_07](https://i.imgur.com/tCZvphF.jpg)
+![image_08](https://i.imgur.com/aD7M9jj.jpg)
+![image_09](https://i.imgur.com/5mDzhDp.jpg)
+![image_10](https://i.imgur.com/ulVRrqU.jpg)
+
