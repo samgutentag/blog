@@ -2,6 +2,7 @@
 layout: post
 title:  "Clipping Safeway Coupons with Python"
 date:   2019-06-04 08:00:00 -0700
+last-updated:   2019-06-15
 categories: python selenium automation
 bitly: https://gutentag.co/clippingcoupons
 ---
