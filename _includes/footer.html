@@ -4,8 +4,8 @@
     <h2 class="footer-heading">A <a href="{{site.baseurl}}">{{ site.title | escape }}</a> Blog Post</h2>
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <div><a href="{{page.bitly}}">{{page.title}}</a></div>
-        <div>Last Updated on {{ page.last-updated }}</div>
+        <div><a href="{{page.bitly | escape }}">{{page.title | escape }}</a></div>
+        <div>Last Updated on {{ page.last-updated}}</div>
       </div>
     </div>
   </div>
