@@ -37,4 +37,3 @@ Here is a snippet from my `settings.json` file, commented for reference.
 {% endhighlight %}
 
 - [Link to this page]({{ page.bitly }})
-- This page was last updated on {{ page.last-updated }}

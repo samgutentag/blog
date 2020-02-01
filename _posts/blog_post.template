@@ -1,4 +1,3 @@
-<--
 ---
 layout: post
 title:  "Blog Post Template"
@@ -11,5 +10,3 @@ bitly: https://gutentag.co/website
 > Content goes here
 
 - [Link to this page]({{ page.bitly }})
-- This page was last updated on {{ page.last-updated }}
--->

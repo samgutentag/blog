@@ -83,3 +83,4 @@ This ip will be formatted similar to _123.456.7.8_
 
 Open the app called _Screen Sharing_ and create a new connection and enter in the ip address for the Pi.  You will be prompted for the VNC password set in Step 1, with the option to store the password for future connections.
 
+- [Link to this page]({{ page.bitly }})
