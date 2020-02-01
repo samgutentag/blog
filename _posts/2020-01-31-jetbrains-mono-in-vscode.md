@@ -35,5 +35,3 @@ Here is a snippet from my `settings.json` file, commented for reference.
     "editor.fontLigatures": true
 }
 {% endhighlight %}
-
-- [Link to this page]({{ page.bitly }})

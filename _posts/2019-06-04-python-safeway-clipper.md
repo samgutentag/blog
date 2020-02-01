@@ -70,5 +70,3 @@ The obvious next feature I need to add is some kind of user notify system for wh
   2. Logging
   3. Cross Reference with Grocery List?
   4. Move to a Raspberry Pi?
-
-- [Link to this page]({{ page.bitly }})

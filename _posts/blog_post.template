@@ -8,5 +8,3 @@ bitly: https://gutentag.co/website
 ---
 
 > Content goes here
-
-- [Link to this page]({{ page.bitly }})
