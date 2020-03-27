@@ -8,6 +8,7 @@ bitly: https://gutentag.co/virtualenv-env-vars
 ---
 
 ## Set Variables
+
 navigate to `$VIRTUAL_ENV/bin/postactivate`
 
 {% highlight bash %}

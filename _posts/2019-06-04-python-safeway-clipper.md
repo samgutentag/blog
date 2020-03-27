@@ -6,6 +6,7 @@ last-updated:   2019-06-15
 categories: python selenium automation
 bitly: https://gutentag.co/clippingcoupons
 ---
+
 I grocery shop on a weekly basis, mostly because I live in a small San Francisco apartment with a refrigerator from the early 1200's, but also because I am learning to enjoy cooking and fresh ingredients are _actually_ starting to taste better to me.
 
 My local grocery store (Safeway) has a membership program like all good chain grocers do, and offers an option to clip coupons digitally.
@@ -35,15 +36,19 @@ The Code itself is split into 5 key steps.
 ## Code
 
 ### Step 1. Parsing command line variables
+
 This script allows the user to pass 3 variables, all are technically optional (sorta, see Step 3).  Running in `headless` mode allows the script to open the webdriver withouth pulling up a chrome window to watch and manage, and for headless machines, this is ideal.  Dont pass this argument if you want to watch the clipping magic.
 
 ### Step 2. Initialize webdriver
+
 This is pretty straightforward, it tries to spin up a webdriver instance, and fails if it can't.  This is where teh `headless` setting is actually applied.
 
 ### Step 3. Log into Safeway with Stored User Credentials
+
 Users can pass a `password` and `username` to the command line arguments.  If those arguments are not passed the script will attempt to use store Environment Variables! Which is cleaner in my setup.
 
 ### Step 4. Clip Coupons
+
 This is where the magic happens.  Safeway is overtime evolving, and this section would have changed several times had i written this post when I first got started.
 
 Currently the offers are stored on a single page accesible once you are logged in, and that page does not have infinite scrolling but instead a button to 'load more offers'.
@@ -55,6 +60,7 @@ Once it is done scrolling, click all the offers and close the webdriver!
 Running in `headless` mode will suppress any console output. Which means the next version of this script needs logging features.
 
 ### Step 5. Savings
+
 This is a throw away step, as long as I just remember to punch in my membership number at the register these coupons are applied to my total.
 
 ## Automatic Clipping
@@ -64,6 +70,7 @@ To automate this whole thing, I run it on a `crontab` on a computer in my back c
 The cron command I use runs this process at 4:37am every day local time.  Why 4:37am? no real reason aside from my laptop wont be doing anything else at that time.
 
 ## Next Steps and Room for Improvement
+
 The obvious next feature I need to add is some kind of user notify system for when this script fails.  Every so often new popups and navigations are required on the Safeway website and I would love to get notified in some way when the script errors out.
 
   1. Crash Reporting
