@@ -4,7 +4,7 @@ title:  "Setting Slack Status with Siri Shortcuts and Zoom"
 date:   2020-03-26 08:00:00 -0800
 last-updated:   2020-03-26
 categories: zoom slack shortcuts
-bitly: https://gutentag.co/website
+bitly: https://gutentag.co/2Jf10NU
 ---
 
 ## Working from Home Together
