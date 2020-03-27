@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting Slack Status with Siri Shortcuts and Zoom"
 date:   2020-03-26 08:00:00 -0800
-last-updated:   2020-03-26
+last-updated:   2020-03-27
 categories: zoom slack shortcuts
 bitly: https://gutentag.co/2Jf10NU
 ---
@@ -60,6 +60,8 @@ You can download the template shortcuts here, just be sure to add your StatusHoo
 [Siri Shortcut Download](https://gutentag.co/3byuGlf)
 
 ---
+
+*UPDATE March 27, 2020 - So this only works for meetings you are hosting... still working on a setup for joining and leaving meetings hosted by other users...*
 
 ## Getting Fancy with Zoom Events API
 
