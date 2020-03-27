@@ -61,9 +61,9 @@ You can download the template shortcuts here, just be sure to add your StatusHoo
 
 ---
 
-*UPDATE March 27, 2020 - So this only works for meetings you are hosting... still working on a setup for joining and leaving meetings hosted by other users...*
-
 ## Getting Fancy with Zoom Events API
+
+**UPDATE March 27, 2020 - So this only works for meetings you are hosting... still working on a setup for joining and leaving meetings hosted by other users...**
 
 So you have got the ability to set a Slack Status with a Siri Shortcut, but then you realized, why not just set your Slack Status using Zoom directly?
 
