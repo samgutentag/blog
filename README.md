@@ -1,5 +1,7 @@
-# gutenblog
+# Blogging with Github!
 
-host a template preview with
+run the following command to host a template preview of the blog
 
+```bash
 > bundle exec jekyll serve
+```
