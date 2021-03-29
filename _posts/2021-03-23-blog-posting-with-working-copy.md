@@ -4,7 +4,6 @@ title:  "Publishing Blog Posts with WorkingCopy"
 date:   2021-03-23 08:00:00 -0800
 last-updated:   2021-03-23
 categories: blog workingcopy iPad publishing workflow
-bitly: https://gutentag.co/website
 ---
 
 # Publishing blog posts with Working Copy from iOS

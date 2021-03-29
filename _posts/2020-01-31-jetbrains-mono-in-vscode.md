@@ -3,8 +3,7 @@ layout: post
 title:  "Using JetBrains Mono inside VSCode"
 date:   2020-01-31 08:00:00 -0800
 last-updated:   2020-01-31
-categories: codeeditor, vscode, fonts
-bitly: https://gutentag.co/jetbrains-in-vscode
+categories: codeeditor vscode fonts
 ---
 
 ## Using JetBrains Mono inside VSCode

@@ -3,8 +3,7 @@ layout: post
 title:  "Environment Variables inside Python virtualenvs"
 date:   2020-01-29 08:00:00 -0800
 last-updated:   2020-01-29
-categories: template
-bitly: https://gutentag.co/virtualenv-env-vars
+categories: python virtualenvs variables
 ---
 
 ## Set Variables

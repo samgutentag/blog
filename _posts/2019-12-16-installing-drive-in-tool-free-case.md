@@ -4,7 +4,6 @@ title:  "Installing a Drive into a Tool Free Case"
 date:   2019-12-16 08:00:00 -0800
 last-updated:   2019-12-17
 categories: hardware howto installguide
-bitly: https://gutentag.co/ehdinstall2
 ---
 
 ## Step 1
